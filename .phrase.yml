@@ -2,7 +2,7 @@ phrase:
   file_format: nested_json
   push:
     sources:
-      - file: ./locales/en.yml
+      - file: ./locales/en.json
         project_id: 6c04f5135e02f03316d753c8b3b54dea
         params:
           locale_id: en
